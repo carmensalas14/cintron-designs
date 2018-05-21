@@ -1,0 +1,83 @@
+
+.nav {
+  background-color:#48C13F;
+  min-height:60px;
+  font-family:Catamaran;
+  font-size:22px;
+}
+
+.about-subtitle {
+  text-align:center;
+  font-family:Catamaran;
+  color: #48C13F;
+  font-size:40px;
+}
+
+.nav .nav-tabs > li {
+font-size:20px;
+text-align:center;
+}
+
+.nav .nav-tabs > li > a {
+  color: black;
+}
+
+.about-writing{
+  font-family:Catamaran;
+  font-size:20px;
+}
+
+
+
+
+
+/*RECIPE PAGE*/
+.more-button{
+  font-size:25px;
+  height:50px;
+  width:160px;
+
+  margin: 0 auto;
+  
+  
+  background-color:#D2AF69;
+  font-family: Catamaran;
+}
+
+
+
+.diy-disclaimer{
+  font-size:20px;
+  font-family: Catamaran;
+}
+.diy-description{
+  font-size:18px;
+  font-family: Catamaran;
+}
+
+.diy-subheading{
+ color:#C8570D;
+ font-family: Catamaran;
+  
+}
+
+.project-div{
+text-align: center;
+}
+
+
+
+.center-block {
+   display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+
+
+#dresstype{
+  height:430px;
+}
+
+#viel{
+  height:260px;
+}
