@@ -158,3 +158,10 @@ h1{
 button{
   background-color: white;
 }
+#logo{
+    text-align:center;
+    font-family: 'Crimson Text', serif;
+    font-size: 60px;
+
+  
+}
