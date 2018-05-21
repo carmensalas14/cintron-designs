@@ -81,3 +81,80 @@ text-align: center;
 #viel{
   height:260px;
 }
+
+#logo-pic{
+  height:200px;
+}
+
+#intro{
+  font-size:30px;
+}
+.list{
+  text-align: center;
+}
+
+ul{
+      width: 70%;
+    margin: auto;
+display: inline-block;
+}
+
+li{
+  width: 70%;
+    margin: auto;
+display: inline-block;
+
+  
+}
+
+.beading-pic{
+  height:300px;
+  text-align:center;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+.fabric-pic{
+  height:300px;
+  text-align: center;
+  
+}
+
+#form-button{
+  height:70px;
+  font-size: 47px;
+}
+
+.fabric-pic{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:300px;
+ 
+}
+
+h1{
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+
+}
+
+.list{
+    font-family: 'Crimson Text', serif;
+
+}
+
+.font{
+    font-family: 'Crimson Text', serif;
+
+}
+
+#intro{
+  text-align:center;
+}
+
+button{
+  background-color: white;
+}
